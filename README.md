@@ -1,13 +1,13 @@
-# Simple Flask API 🚀
-
-Pequeña API desarrollada con **Python** usando el framework **:contentReference[oaicite:0]{index=0}** para practicar la creación de endpoints y probar peticiones HTTP con **:contentReference[oaicite:1]{index=1}**.
+# Aplicaciones Web orientada a Servicios 🚾 
+## GTID153
+### Simple Flask API 
+### Alumna: Serna Rodriguez Sara Lizbeth 🍄 
 
 ---
 
-## 📌 Descripción
+## Descripción
 
 Este proyecto implementa una API básica que permite:
-
 - Obtener información de un usuario por su **ID**
 - Crear un usuario enviando datos en **JSON**
 - Probar endpoints utilizando herramientas de testing de APIs
